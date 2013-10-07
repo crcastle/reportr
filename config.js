@@ -5,7 +5,7 @@ module.exports =  {
 	/* Server configuration */
 	"web": {
 		/* (string) Hostname for the application */
-		"host": "reportr.io",
+		"host": "track.crc.io",
 
 		/* (boolean) Secure https mode */
 		"secure": false,
